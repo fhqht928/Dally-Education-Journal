@@ -39,4 +39,4 @@ git checkout -b branch_0 브렌치_0이라는 이름의 브렌치 생성
 
 git checkout branch_0 브렌치_0으로 이동
 
-git checkout -d branch_0 브렌치_0 삭제
+git branch -d branch_0 브렌치_0 삭제
